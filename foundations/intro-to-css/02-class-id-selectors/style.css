@@ -4,7 +4,11 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-
+#fourth {
+    background-color: rgb(44, 174, 44);
+    font-size: 24px;
+    font-weight: bold;
+}
  #blue {
     color: rgb(57, 57, 211);
     font-size: 36px;
@@ -14,8 +18,4 @@
     font-size: 24px;
 }
 
-.fourth {
-    background-color: rgb(44, 174, 44);
-    font-size: 24px;
-    font-weight: bold;
-}
+
