@@ -6,7 +6,7 @@ p {
 
 
  #blue {
-    color: blue;
+    color: rgb(57, 57, 211);
     font-size: 36px;
  }
 
@@ -15,7 +15,7 @@ p#third {
 }
 
 .fourth {
-    background-color: lightgreen;
+    background-color: rgb(44, 174, 44);
     font-size: 24px;
     font-weight: bold;
 }
