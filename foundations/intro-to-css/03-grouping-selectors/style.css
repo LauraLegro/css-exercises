@@ -1,14 +1,15 @@
 
-button {
+.inverted,
+.fancy {
    font-size: 28px;
    font-family: 'Helvetica, Times New Roman, sans-serif';
 }
 
-.first-button {
+.inverted {
     background-color: black;
     color: white;
 }
 
-.second-button {
+.fancy {
     background-color: yellow;
 }
